@@ -1,3 +1,4 @@
+![bitmaker](https://github.com/johncarlolopez/bitmaker-reference/blob/master/bitmakerlogo.svg)
 # 01 - Reinforcing Exercises: Collections
 ### Tuesday, Jan 9th
 
